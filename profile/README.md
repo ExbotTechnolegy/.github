@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://exrobottech.com/images/logo-header.svg" width="180" alt="Exbot Technology">
+<img src="https://exrobottech.com/images/logo-header-dark.svg" width="180" alt="Exbot Technology">
 
 # Exbot Technology · 杭州
 
